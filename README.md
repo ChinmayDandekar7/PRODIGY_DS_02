@@ -43,7 +43,7 @@ Used bar plots, scatter plots, and heatmaps to illustrate key insights from the 
 
 How to Run the Code
 Clone the Repository:
-git clone https://github.com/ChinmayDandekar7/titanic-eda.git
+git clone https://github.com/ChinmayDandekar7/PRODIGY_DS_02.git
 
 Install Required Libraries:
 pip install pandas numpy matplotlib seaborn
